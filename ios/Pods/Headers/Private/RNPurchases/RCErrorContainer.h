@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-purchases/ios/Common/RCErrorContainer.h

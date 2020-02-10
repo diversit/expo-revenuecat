@@ -1,0 +1,1 @@
+../../../Purchases/Purchases/RCOfferings+Protected.h

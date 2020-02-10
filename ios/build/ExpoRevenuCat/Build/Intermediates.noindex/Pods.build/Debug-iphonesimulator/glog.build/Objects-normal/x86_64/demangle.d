@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/glog/src/demangle.cc \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/Target\ Support\ Files/glog/glog-prefix.pch \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/glog/src/demangle.h \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/glog/src/config.h \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/glog/src/glog/logging.h \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/Headers/Private/glog/glog/log_severity.h \
+  /Users/joostdenboer/Projects/IPOS/tmp/expo-revenuecat/ios/Pods/Headers/Private/glog/glog/vlog_is_on.h
